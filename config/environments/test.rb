@@ -41,8 +41,6 @@ Rails.application.configure do
   # Print deprecation notices to the stderr.
   config.active_support.deprecation = :stderr
 
-  ruby "2.7.2"
-
   # Raises error for missing translations
   # config.action_view.raise_on_missing_translations = true
 end
